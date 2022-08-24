@@ -30,8 +30,8 @@ Refer screenshot attached.
 
 
 ### References:
- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures by MDN
- https://www.youtube.com/watch?v=qikxEIxsXco&t=1102s by Akshay Saini
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures by MDN \
+ https://www.youtube.com/watch?v=qikxEIxsXco&t=1102s by Akshay Saini \
  https://stackoverflow.com/a/50655259/1708333
  https://stackoverflow.com/a/39045098/1708333
 

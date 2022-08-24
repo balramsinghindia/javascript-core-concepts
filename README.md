@@ -1,0 +1,3 @@
+# javascript-core-concepts
+
+## Closure

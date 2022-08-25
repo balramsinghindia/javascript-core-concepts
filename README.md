@@ -36,3 +36,14 @@ Refer screenshot attached.
  https://stackoverflow.com/a/39045098/1708333
 
 
+
+## Virtual DOM 
+
+It is more expensive to find a node in DOM and manipulate it in SPA websites. Therefore React was introduced with the concept of Virtual DOM.
+
+Although this concept of Virtual DOM is not new: https://github.com/Matt-Esch/virtual-dom.
+
+
+VDOM strategically updates DOM without redrawing all the nodes in a single-page application. Finding a node in a tree structure is easy, but the DOM tree for a SPA app can be drastically huge. Finding and updating a node in case of an event is not time efficient.
+
+VDOM solves this problem by creating a high-level abstraction of actual dom. The VDOM is a high-level lightweight in-memory tree representation of the virtual DOM.

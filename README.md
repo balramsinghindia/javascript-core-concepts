@@ -36,7 +36,7 @@ Refer screenshot attached.
  https://stackoverflow.com/a/39045098/1708333
 
 \
-\
+
 
 ## Virtual DOM 
 

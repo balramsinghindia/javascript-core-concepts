@@ -27,6 +27,7 @@ Refer screenshot attached.
 - Functions like once
 - setTimeouts
 - Iterators
+- Carousel
 
 
 ### References:

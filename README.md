@@ -15,7 +15,7 @@ In Simple words, Closure gives you access to the parent function's scope from an
 
 ### 2. Closure in Browser console:
 Refer screenshot attached.
-![Closure](https://media-exp1.licdn.com/dms/image/D562CAQGsJlkbkzLatQ/comment-image-shrink_8192_1280/0/1661308500573?e=1661914800&v=beta&t=zY5IBaMdBq-hL0Lee2rcHnOExUytNsxemZUkQs8uHKI)
+![Closure](https://github.com/balramsinghindia/tempfiles/blob/main/Screen%20Shot%202022-09-01%20at%204.46.19%20pm.png?raw=true)
 
 
 ### 3. Usecases:

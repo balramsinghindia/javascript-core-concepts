@@ -83,3 +83,7 @@ console.log(7);
 ### References: 
 https://javascript.info/event-loop
 https://stackoverflow.com/a/60210808/1708333
+
+
+## this in JavaScript
+![thisinJS](https://github.com/balramsinghindia/tempfiles/blob/main/Screen%20Shot%202022-09-01%20at%204.43.39%20pm.png?raw=true)
